@@ -31,6 +31,6 @@ Il faut pour cela :
       - comparer les meilleurs résultats de ces deux méthodes
 
 ## Conclusion
-
-
-     
+Il ressort de cette étude que l’élément qui influe le plus sur le niveau des ventes est le magasin lui-même car il y a de grandes différences entre les différents lieux de ventes.
+Elle semble indiquer également que le RIDGE avec un alpha de 0.0012 est le meilleur pour corriger le petit surapprentissage relevé au début.
+Il paraît donc le plus indiqué à utiliser.
